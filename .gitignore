@@ -1,0 +1,30 @@
+target/
+**/target
+**/testReport
+!.mvn/wrapper/maven-wrapper.jar
+.buildpath
+.pmd
+.checkstyle
+.DS_Store
+*.pid
+*.log
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.swp
+
+## Local ##
+local.*
+*-local.*
